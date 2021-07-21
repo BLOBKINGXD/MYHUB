@@ -272,6 +272,10 @@ window:CreateButtonF1("Islands (Void)", function()
 	loadstring(game:HttpGet("http://void-scripts.com/Scripts/islands_new.lua"))()
 end)
 
+window:CreateButtonF1("BedWars (EZ Coco Hub)", function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/CeQ2DKf2"))()
+end)
+
 -- Hubs --
 
 window:CreateButtonF2("Pika Hub", function()
